@@ -1,0 +1,28 @@
+.geo-regular {
+  font-family: "Geo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.geo-regular-italic {
+  font-family: "Geo", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    color: white;
+}
+body{
+    margin: 0px;
+    padding: 0%;
+    font-family: "Geo", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    background-color: black;
+}
+img{
+    display: block;
+    max-width: 100%;
+  }

@@ -1,0 +1,57 @@
+header>h1{
+    
+    background: #079661;
+    padding: 10px;
+    text-align: left;
+    font-size: 8ex;
+    color: white;
+
+}
+nav {
+
+        padding-left: 0px;
+        text-align: left;
+        background: rgb(8, 59, 42);
+        color: white;
+    
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    width:  100%;
+    padding-left: 0%;
+    
+}
+li,.linkh {
+    color: rgb(89, 131, 117);
+    text-decoration: none;
+    font-size: 5ex;
+    padding: 0.5rem;
+}
+footer{
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+    background:rgb(8, 59, 42) ;
+}
+header{
+    
+    width:  100%;
+    position: sticky;
+    z-index: 1;
+    border-radius: 0;
+    padding: 0%;
+    top: 0;
+}
+li:hover {
+    background-color: #ddd;
+    color: black;
+}
+.btnCart{
+    background-color: transparent;
+    border: none;
+}
+.fa-cart-shopping{
+    color: red;
+    font-size: 5ex;
+}
